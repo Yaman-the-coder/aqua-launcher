@@ -1,1 +1,29 @@
+[
+  {
+    "name": "Performans+ (Fabric)",
+    "description": "FPS artırıcı harika optimizasyon modlarını içeren hafif bir paket.",
+    "version": "1.0.0",
+    "loader": "fabric",
+    "loaderVersion": "0.15.7",
+    "mcVersion": "1.20.4",
+    "modpackJsonUrl": "https://example.com/performans-arti.json"
+  },
+  {
+    "name": "Zindanlar ve Sihir",
+    "description": "Büyü, yeni silahlar ve zorlu zindanlar ile dolu ağır bir keşif paketi.",
+    "version": "2.4.1",
+    "loader": "forge",
+    "loaderVersion": "47.2.20",
+    "mcVersion": "1.20.1",
+    "modpackJsonUrl": "https://example.com/zindanlar-sihir.json"
+  },
+  {
+    "name": "Vanilla Plus",
+    "description": "Oyunun orijinal ruhunu bozmadan ufak dokunuşlar ekleyen bir paket.",
+    "version": "1.1.2",
+    "loader": "vanilla",
+    "mcVersion": "1.21",
+    "modpackJsonUrl": "https://example.com/vanilla-plus.json"
+  }
+]
 
